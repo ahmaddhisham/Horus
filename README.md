@@ -1,5 +1,7 @@
 # Horus E-Commerce
 An Egyptian-themed online store with Firebase authentication.
+![Uploading image.png…]()
+
 
 ## Features
 - User registration/login
